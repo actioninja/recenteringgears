@@ -1,0 +1,7 @@
+<Project>
+    <PropertyGroup>
+        <DataFolderName>VintagestoryData</DataFolderName>
+        <GameDirectory>/home/actioninja/.config/VSLGameVersions/1.21.5/</GameDirectory>
+        <EnterWorldOnStartup>false</EnterWorldOnStartup>
+    </PropertyGroup>
+</Project>

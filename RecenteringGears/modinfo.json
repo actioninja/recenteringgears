@@ -1,0 +1,14 @@
+{
+  "$schema": "https://moddbcdn.vintagestory.at/schema/modinfo.latest.json",
+  "type": "Code",
+  "modid": "recenteringgears",
+  "name": "Recentering Gears",
+  "description": "Makes temporal gears change spawn radius center rather than absolute position",
+  "authors": [
+    "actioninja"
+  ],
+  "version": "1.0.0",
+  "dependencies": {
+    "game": "1.21.0"
+  }
+}
