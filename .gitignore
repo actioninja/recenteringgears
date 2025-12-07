@@ -428,6 +428,8 @@ FodyWeavers.xsd
 # Gradle
 .idea/**/gradle.xml
 .idea/**/libraries
+# go away
+.idea/
 
 # Gradle and Maven with auto-import
 # When using Gradle or Maven with auto-import, you should exclude module files,
@@ -673,3 +675,5 @@ fabric.properties
 # Additional files built by Visual Studio
 
 # End of https://www.toptal.com/developers/gitignore/api/csharp,visualstudio,visualstudiocode,rider
+/biomes/BiomesModSystemHelpers.cs
+/biomes/BiomesModSystem - Copy.cs
